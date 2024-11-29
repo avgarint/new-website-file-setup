@@ -1,2 +1,2 @@
 # new-website-file-setup
-My website setup template files.
+Setup files for new websites.
